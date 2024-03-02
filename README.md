@@ -23,7 +23,7 @@ WRX Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileş
 
 ## 📥 **Nasıl İndirilir?**
  <a href="https://www.c.com" >
-<button  style="background-color:lightgreen;color:white;width:13%;">İndir
+<button  style="background-color:lightgreen;color:black;width:13%;">İndir
  
 
 ## 👀 **Neden WRX?**
