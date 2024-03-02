@@ -11,4 +11,4 @@
 
 ## 🔒 **Bu Gizlilik İşlemlerinin Amacı Ne?**
 
-Microsoft; sizi ve yaptığınız işlemleri izliyerek kendi servislerini geliştirme, sizin internet üzerindeki hareketlerinizi satarak para kazanabiliyor. Tabii bunlar da sizin gizliliğinizi etkiliyor. Bizim buradaki amacımız sizi ve gizliliğinizi internet üzerinde korumak, saklamaktır.
+Microsoft; sizi ve yaptığınız işlemleri izliyerek kendi servislerini geliştirme, sizin internet üzerindeki hareketlerinizi satarak para kazanabiliyor. Tabii bunlar da sizin gizliliğinizi etkiliyor. Bizim buradaki amacımız sizi ve gizliliğinizi internet üzerinde korumak, saklamaktır..
