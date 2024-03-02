@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://ready-os.github.io/"><img src="https://raw.githubusercontent.com/spydea0/readyOS/main/readyOS%20Old/Foto%C4%9Fraflar/readyOS_MAIN.png" alt="readyOS" width="900" style="border-radius: 30px"></a>
+  <a href="https://ready-os.github.io/"><img src="https://cdn.discordapp.com/attachments/1187422067885350953/1213383921132380190/WRX_STUDIO.png?ex=65f546d6&is=65e2d1d6&hm=5b3a9b67bdbdd2a06f2f794f13893beff748bf779ddc966e4f777ea786672e9d&" alt="readyOS" width="900" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
     <a href="https://drive.google.com/drive/folders/1DpMk2x73jV4DQ54WjtTZWD_sJwNZXOnc?usp=sharing">
