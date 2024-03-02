@@ -1,3 +1,9 @@
+<body bgcolor="#000000">
+<body bgcolor="rgb(0,0,0)">
+<body bgcolor="black"> 
+
+
+
 <h1 align="center">
   <a href=" https://wrxstudio.github.io/WRX//"><img src="https://cdn.discordapp.com/attachments/1187422067885350953/1213383921132380190/WRX_STUDIO.png?ex=65f546d6&is=65e2d1d6&hm=5b3a9b67bdbdd2a06f2f794f13893beff748bf779ddc966e4f777ea786672e9d&" alt="WRX" width="900" style="border-radius: 30px"></a>
 </h1>
