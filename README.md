@@ -11,7 +11,7 @@
     <a href="https://wrxstudio.github.io/WRX//">
       <img alt="İndir" src="https://img.shields.io/badge/İnternet Sitesi-%2309393a?style=for-the-badge&logo=circuitverse&logoColor=white&style=flat" />
     </a>
-    <a href="DİScord">
+    <a href="https://discord.gg/UAdCp5KeJm">
       <img alt="İndir" src="https://img.shields.io/badge/Discord-%2309393a?style=for-the-badge&logo=discord&logoColor=white&style=flat" />
     </a>
   </p>
