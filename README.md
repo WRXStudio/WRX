@@ -19,7 +19,7 @@
 
 ## 🤔 **WRX Performance Editons nedir?**
 
-WRX Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
+WRX Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://wrxstudio.github.io/WRX//) öğrenebilirsiniz.
 
 ## 📥 **Nasıl İndirilir?**
   Bakımda
