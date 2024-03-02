@@ -36,7 +36,7 @@ WRX'ın Windows'un kontrolünde olmayan şeylerde (tarayıcılar ve üçüncü p
 Hazır gelen uygulamalar ve diğer önemsiz bileşenler readyOS'da kaldırıldı. Uyumluluk sorunlarına nazaran, indirdiğiniz boyutu önemli ölçüde düşürüyor ve sisteminizi daha akıcı yapıyor. Bu nedenle bazı özellikler komple kaldırıldı.
 
 ### ✅ Daha fazla performans
-İnternette dolaşan bazı düzenlenmiş sistemler Windows'u o kadar düzenliyor ki, önemli olan Bluetooth, Wi-Fi gibi özelliklerin uyumluluğunu bozuyorlar. readyOS tam ortasını, iyi bir performans alırken iyi seviyede bir uyumluluk da hedefliyor.
+İnternette dolaşan bazı düzenlenmiş sistemler Windows'u o kadar düzenliyor ki, önemli olan Bluetooth, Wi-Fi gibi özelliklerin uyumluluğunu bozuyorlar.   WRX tam ortasını, iyi bir performans alırken iyi seviyede bir uyumluluk da hedefliyor.
 
 Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 - Azaltılmış hizmet ve sürücü miktarı
