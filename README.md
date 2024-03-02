@@ -1,17 +1,17 @@
 <h1 align="center">
-  <a href="https://ready-os.github.io/"><img src="https://cdn.discordapp.com/attachments/1187422067885350953/1213383921132380190/WRX_STUDIO.png?ex=65f546d6&is=65e2d1d6&hm=5b3a9b67bdbdd2a06f2f794f13893beff748bf779ddc966e4f777ea786672e9d&" alt="readyOS" width="900" style="border-radius: 30px"></a>
+  <a href=" https://wrxstudio.github.io/WRX//"><img src="https://cdn.discordapp.com/attachments/1187422067885350953/1213383921132380190/WRX_STUDIO.png?ex=65f546d6&is=65e2d1d6&hm=5b3a9b67bdbdd2a06f2f794f13893beff748bf779ddc966e4f777ea786672e9d&" alt="WRX" width="900" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
-    <a href="https://drive.google.com/drive/folders/1DpMk2x73jV4DQ54WjtTZWD_sJwNZXOnc?usp=sharing">
+    <a href="SÜRÜM">
       <img alt="Sürümler" src="https://img.shields.io/badge/Sürümler-%2309393a?style=for-the-badge&logo=serverless&logoColor=white&style=flat" />
     </a>
-    <a href="https://drive.google.com/file/d/1cGvwIURvc4rO5IQbXumV678r9LFlV6bu">
+    <a href="Sürüm">
       <img alt="İndir" src="https://img.shields.io/badge/v.1.2 (Playbook)-%2309393a?style=for-the-badge&logo=windows&logoColor=white&style=flat" />
     </a>
-    <a href="https://ready-os.github.io/">
+    <a href="https://wrxstudio.github.io/WRX//">
       <img alt="İndir" src="https://img.shields.io/badge/İnternet Sitesi-%2309393a?style=for-the-badge&logo=circuitverse&logoColor=white&style=flat" />
     </a>
-    <a href="https://dsc.gg/readyos">
+    <a href="DİScord">
       <img alt="İndir" src="https://img.shields.io/badge/Discord-%2309393a?style=for-the-badge&logo=discord&logoColor=white&style=flat" />
     </a>
   </p>
