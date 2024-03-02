@@ -15,7 +15,7 @@
       <img alt="İndir" src="https://img.shields.io/badge/Discord-%2309393a?style=for-the-badge&logo=discord&logoColor=white&style=flat" />
     </a>
   </p>
-<h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
+<h4 align="center"> şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
 
 ## 🤔 **WRX Performance Editons nedir?**
 
