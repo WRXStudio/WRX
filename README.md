@@ -17,27 +17,20 @@
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
 
-## 🤔 **readyOS nedir?**
+## 🤔 **WRX Performance Editons nedir?**
 
-readyOS; Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
+WRX Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
 
 ## 📥 **Nasıl İndirilir?**
+  Bakımda
 
-1) [OgnitorenKs Toolbox](https://ognitorenks.blogspot.com/2022/04/ognitorenks-toolbox.html)'ı indirin.
-
-2) "Sistem optimizasyonu [Playbook]" bölümüne giriş yapın.
-
-3) "Spydea_readyOS_Playbook_v1.2.ini" kalıbını seçin.
-
-4) Gelen ekrandaki yönergelere uyarak kurulumu tamamlayın.
-
-## 👀 **Neden readyOS?**
+## 👀 **Neden WRX?**
 
 ### 🔒 Daha gizlilik odaklı
 Stok Windows sizin bilgilerinizi toplayan ve Microsoft'a gönderen servisler içerir.
-readyOS Windows'a gömülü bir şekilde gelen bilgi toplama servislerinin hepsini kaldırır ve bilgi toplamayı en aza çekmeyi amaçlar.
+WRX Windows'a gömülü bir şekilde gelen bilgi toplama servislerinin hepsini kaldırır ve bilgi toplamayı en aza çekmeyi amaçlar.
 
-readyOS'ın Windows'un kontrolünde olmayan şeylerde (tarayıcılar ve üçüncü parti uygulamalar gibi) güvenliğinizi sağlayamayacağını unutmayın.
+WRX'ın Windows'un kontrolünde olmayan şeylerde (tarayıcılar ve üçüncü parti uygulamalar gibi) güvenliğinizi sağlayamayacağını unutmayın.
 
 ### 🚀 Daha fazla alan
 Hazır gelen uygulamalar ve diğer önemsiz bileşenler readyOS'da kaldırıldı. Uyumluluk sorunlarına nazaran, indirdiğiniz boyutu önemli ölçüde düşürüyor ve sisteminizi daha akıcı yapıyor. Bu nedenle bazı özellikler komple kaldırıldı.
