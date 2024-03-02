@@ -22,7 +22,9 @@
 WRX Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. WRX, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. WRX hakkında daha fazla bilgiyi [sitemizden](https://wrxstudio.github.io/WRX//) öğrenebilirsiniz.
 
 ## 📥 **Nasıl İndirilir?**
-  Bakımda
+ <a href="https://www.c.com" >
+<button  style="background-color:tomato;color:white;width:100%;">İndir <button>
+ </a>
 
 ## 👀 **Neden WRX?**
 
