@@ -6,7 +6,7 @@
       <img alt="Sürümler" src="https://img.shields.io/badge/Sürümler-%2309393a?style=for-the-badge&logo=serverless&logoColor=white&style=flat" />
     </a>
     <a href="Sürüm">
-      <img alt="İndir" src="https://img.shields.io/badge/v.1.2 (Playbook)-%2309393a?style=for-the-badge&logo=windows&logoColor=white&style=flat" />
+      <img alt="İndir" src="https://img.shields.io/badge/v.1.2 (None)-%2309393a?style=for-the-badge&logo=windows&logoColor=white&style=flat" />
     </a>
     <a href="https://wrxstudio.github.io/WRX//">
       <img alt="İndir" src="https://img.shields.io/badge/İnternet Sitesi-%2309393a?style=for-the-badge&logo=circuitverse&logoColor=white&style=flat" />
