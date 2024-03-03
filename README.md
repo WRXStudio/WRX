@@ -16,7 +16,7 @@
     </a>
   </p>
 <h4 align="center"> şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
-
+    <button id="toggleButton" onclick="toggleColorMode()">Siyah / Beyaz Mod</button>
 ## 🤔 **WRX Performance Editons nedir?**
 
 WRX Windows'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. WRX, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. WRX hakkında daha fazla bilgiyi [sitemizden](https://wrxstudio.github.io/WRX//) öğrenebilirsiniz.
@@ -51,73 +51,3 @@ Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 Düzenlenmiş Windows işletim sistemleri [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal eder.
 
 
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>İşletim Sistemi Tanıtımı</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #fff; /* Varsayılan arka plan rengi */
-            color: #000; /* Varsayılan metin rengi */
-            transition: background-color 0.5s, color 0.5s; /* Geçiş efekti */
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center;
-        }
-        #toggleButton {
-            background-color: #000;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            transition: background-color 0.3s, color 0.3s;
-            margin-top: 20px;
-        }
-        #toggleButton:hover {
-            background-color: #fff;
-            color: #000;
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <h1>Hoş Geldiniz!</h1>
-    <p>Bu web sitesinde XYZ İşletim Sistemi'ni tanıtacağız.</p>
-    <img src="isletim_sistemi_resmi.jpg" alt="İşletim Sistemi" width="400">
-    <p>İşletim sistemi hakkında detaylı bilgi ve resimler burada yer alacak.</p>
-    <button id="toggleButton" onclick="toggleColorMode()">Siyah / Beyaz Mod</button>
-</div>
-
-<script>
-    function toggleColorMode() {
-        var body = document.body;
-        var button = document.getElementById('toggleButton');
-
-        if (body.style.backgroundColor === 'rgb(255, 255, 255)') {
-            // Beyaz moddaysa siyah moda geç
-            body.style.backgroundColor = '#000';
-            body.style.color = '#fff';
-            button.style.backgroundColor = '#fff';
-            button.style.color = '#000';
-        } else {
-            // Siyah moddaysa beyaz moda geç
-            body.style.backgroundColor = '#fff';
-            body.style.color = '#000';
-            button.style.backgroundColor = '#000';
-            button.style.color = '#fff';
-        }
-    }
-</script>
-
-</body>
-</html>
