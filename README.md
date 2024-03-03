@@ -1,4 +1,57 @@
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DW</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #fff; /* Varsayılan arka plan rengi */
+            color: #000; /* Varsayılan metin rengi */
+            transition: background-color 0.5s, color 0.5s;
+        }
+        .toggle-button {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            border: none;
+            background-color: #000; /* Varsayılan buton rengi */
+            color: #fff; /* Varsayılan buton metin rengi */
+            font-size: 16px;
+            cursor: pointer;
+            outline: none;
+            transition: background-color 0.5s, color 0.5s;
+        }
+        .dark-mode {
+            background-color: #fff;
+            color: #000;
+        }
+        .dark-mode .toggle-button {
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<button class="toggle-button" onclick="toggleTheme()">Gece/Gündüz</button>
+
+<script>
+    function toggleTheme() {
+        document.body.classList.toggle('dark-mode');
+    }
+</script>
+
+</body>
+</html>
+
 
 
 <h1 align="center">
@@ -52,69 +105,5 @@ Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 
 ### 🔒 Yasal
 Düzenlenmiş Windows işletim sistemleri [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal eder.
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sorun Bildir</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            background-color: #f9f9f9;
-        }
-        label {
-            display: block;
-            margin-bottom: 5px;
-        }
-        input[type="text"], textarea {
-            width: 100%;
-            padding: 10px;
-            margin-bottom: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            box-sizing: border-box;
-        }
-        input[type="submit"] {
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        input[type="submit"]:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
 
-<div class="container">
-    <h2>Sorun Bildir</h2>
-    <form action="samurayjack78@gmail.com" method="post" enctype="text/plain">
-        <label for="adSoyad">Adınız Soyadınız:</label>
-        <input type="text" id="adSoyad" name="adSoyad" required>
-
-        <label for="email">E-Posta Adresiniz:</label>
-        <input type="text" id="email" name="email" required>
-
-        <label for="sorun">Sorununuzu Yazın:</label>
-        <textarea id="sorun" name="sorun" rows="5" required></textarea>
-
-        <input type="submit" value="Gönder">
-    </form>
-</div>
-
-</body>
-</html>
 
