@@ -31,43 +31,6 @@
             background-color: #fff;
             color: #000;
         }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <h1>Arkaplan Rengi ve Resim Değiştirme</h1>
-    <button id="toggleButton" onclick="toggleColorMode()">Siyah / Beyaz Mod</button>
-</div>
-
-<script>
-    function toggleColorMode() {
-        var body = document.body;
-        var button = document.getElementById('toggleButton');
-        var image = document.getElementById('image');
-
-        if (body.style.backgroundColor === 'rgb(255, 255, 255)') {
-            // Beyaz moddaysa siyah moda geç
-            body.style.backgroundColor = '#000';
-            button.style.backgroundColor = '#fff';
-            button.style.color = '#000';
-            image.src = 'siyah_resim.jpg';
-        } else {
-            // Siyah moddaysa beyaz moda geç
-            body.style.backgroundColor = '#fff';
-            button.style.backgroundColor = '#000';
-            button.style.color = '#fff';
-            image.src = 'beyaz_resim.jpg';
-        }
-    }
-</script>
-
-<img id="image" src="beyaz_resim.jpg" alt="Resim" width="400">
-
-</body>
-</html>
-
-
 
 <h1 align="center">
   <a href=" https://wrxstudio.github.io/WRX//"><img src="https://cdn.discordapp.com/attachments/1187422067885350953/1213383921132380190/WRX_STUDIO.png?ex=65f546d6&is=65e2d1d6&hm=5b3a9b67bdbdd2a06f2f794f13893beff748bf779ddc966e4f777ea786672e9d&" alt="WRX" width="900" style="border-radius: 30px"></a>
