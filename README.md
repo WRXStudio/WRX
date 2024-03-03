@@ -1,56 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gece Gündüz Teması</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #fff; /* Varsayılan arka plan rengi */
-            color: #000; /* Varsayılan metin rengi */
-            transition: background-color 0.5s, color 0.5s;
-        }
-        .toggle-button {
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            background-color: #000; /* Varsayılan buton arka plan rengi */
-            color: #fff; /* Varsayılan buton metin rengi */
-            font-size: 16px;
-            cursor: pointer;
-            outline: none;
-            transition: background-color 0.5s, color 0.5s;
-        }
-        .dark-mode {
-            background-color: #fff;
-            color: #000;
-        }
-        .dark-mode .toggle-button {
-            background-color: #000;
-            color: #fff;
-        }
-    </style>
-</head>
-<body>
-
-<button class="toggle-button" onclick="toggleTheme()">Gece/Gündüz</button>
-
-<script>
-    function toggleTheme() {
-        document.body.classList.toggle('dark-mode');
-    }
-</script>
-
-</body>
-</html>
-
 
 <h1 align="center">
   <a href=" https://wrxstudio.github.io/WRX//"><img src="https://cdn.discordapp.com/attachments/1187422067885350953/1213383921132380190/WRX_STUDIO.png?ex=65f546d6&is=65e2d1d6&hm=5b3a9b67bdbdd2a06f2f794f13893beff748bf779ddc966e4f777ea786672e9d&" alt="WRX" width="900" style="border-radius: 30px"></a>
@@ -104,4 +51,56 @@ Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 ### 🔒 Yasal
 Düzenlenmiş Windows işletim sistemleri [Microsoft'un Hizmet Şartları'nı](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) ihlal eder.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gece Gündüz Teması</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #fff; /* Varsayılan arka plan rengi */
+            color: #000; /* Varsayılan metin rengi */
+            transition: background-color 0.5s, color 0.5s;
+        }
+        .toggle-button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #000; /* Varsayılan buton arka plan rengi */
+            color: #fff; /* Varsayılan buton metin rengi */
+            font-size: 16px;
+            cursor: pointer;
+            outline: none;
+            transition: background-color 0.5s, color 0.5s;
+        }
+        .dark-mode {
+            background-color: #fff;
+            color: #000;
+        }
+        .dark-mode .toggle-button {
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<button class="toggle-button" onclick="toggleTheme()">Gece/Gündüz</button>
+
+<script>
+    function toggleTheme() {
+        document.body.classList.toggle('dark-mode');
+    }
+</script>
+
+</body>
+</html>
 
