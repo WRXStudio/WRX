@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DW</title>
+    <title>Gece Gündüz Teması</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,11 +18,10 @@
             transition: background-color 0.5s, color 0.5s;
         }
         .toggle-button {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
+            padding: 10px 20px;
             border: none;
-            background-color: #000; /* Varsayılan buton rengi */
+            border-radius: 5px;
+            background-color: #000; /* Varsayılan buton arka plan rengi */
             color: #fff; /* Varsayılan buton metin rengi */
             font-size: 16px;
             cursor: pointer;
@@ -51,7 +50,6 @@
 
 </body>
 </html>
-
 
 
 <h1 align="center">
